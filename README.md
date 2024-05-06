@@ -49,6 +49,4 @@ I heavily recommend his YouTube channel, [devaslife](https://www.youtube.com/@de
 
 ## TODO
 
-- Port my `GitHub` scripts from my MacBook
-- Further `LazyVim` personalisation
-- Commit `iterm2` custom theme
+- Better `README.md` description on how to install each part.
